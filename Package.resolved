@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftIO",
+        "repositoryURL": "https://github.com/EmbeddedSwift/SwiftIO",
+        "state": {
+          "branch": "main",
+          "revision": "7fd75ac7ccad9640b92593d257f5d5d4368e7223",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

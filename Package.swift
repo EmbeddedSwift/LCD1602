@@ -7,7 +7,7 @@ let package = Package(
         .library(name: "LCD1602", targets: ["LCD1602"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/tib/SwiftIO", .branch("master")),
+        .package(url: "https://github.com/EmbeddedSwift/SwiftIO", .branch("main")),
     ],
     targets: [
         .target(name: "LCD1602", dependencies: [
